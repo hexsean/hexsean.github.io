@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hexsean.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hexsean.github.io</link></image><lastBuildDate>Fri, 27 Dec 2024 09:13:32 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>linux命令大全</title><link>https://hexsean.github.io/post/linux-ming-ling-da-quan.html</link><description># linux命令大全&#13;
-&#13;
----&#13;
-&#13;
-### 列出目录内容&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hexsean.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hexsean.github.io</link></image><lastBuildDate>Fri, 27 Dec 2024 09:15:15 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>linux命令大全</title><link>https://hexsean.github.io/post/linux-ming-ling-da-quan.html</link><description>### 列出目录内容&#13;
 &#13;
 ```shell&#13;
  ls -a：显示所有文件（包括隐藏文件）；&#13;
